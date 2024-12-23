@@ -6,6 +6,59 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<iframe src="/files/pdf/cv_OmarVidalPino.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/cv_OmarVidalPino.pdf).
+{% include base_path %}
+
+Education
+======
+* Ph.D. in Computer Science, Computer Vision and Artificial Intelligence, Federal University of Minas Gerais, 2020.
+* M.S. in Computer Science, Machine Learning and Applied Computing, University of Camagüey, 2011.
+* B.S. in Computer Science, University of Oriente, 2007.
+
+<!-- Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git -->
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
