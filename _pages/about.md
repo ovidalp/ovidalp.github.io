@@ -22,9 +22,9 @@ from the [Universidad de Oriente](https://www.uo.edu.cu/), [University of Las Tu
 and [Federal University *of* Minas Gerais](https://ufmg.br/). -->
 
 
-I am Omar Vidal Pino, a passionate AI Scientist and Marie Skłodowska-Curie Fellow at [Biel Glasses](https://bielglasses.com/). With over a decade of experience in Machine Learning (ML) and Computer Vision (CV), I specialize in designing and deploying cutting-edge AI solutions that enhance human capabilities and solve complex challenges.
+I am a passionate AI Scientist and Marie Skłodowska-Curie Fellow at [Biel Glasses](https://bielglasses.com/). With over a decade of experience in Machine Learning (ML) and Computer Vision (CV), I specialize in designing and deploying cutting-edge AI solutions that enhance human capabilities and solve complex challenges.
 
-I hold a Ph.D. in Computer Science with a focus on AI and Computer Vision from the [Federal University of Minas Gerais](https://ufmg.br/), a Master’s degree in Computer Science from the [University of Camagüey](https://www.reduc.edu.cu/), and a Bachelor’s degree in Computer Science from the [University of Oriente](https://www.uo.edu.cu/).
+I hold a Ph.D. in Computer Science with a focus on Artificial Intelligence and Computer Vision from the [Federal University of Minas Gerais](https://ufmg.br/), a Master’s degree in Computer Science from the [University of Camagüey](https://www.reduc.edu.cu/), and a Bachelor’s degree in Computer Science from the [University of Oriente](https://www.uo.edu.cu/).
 
 ### Research Interests
 My research is centered on:

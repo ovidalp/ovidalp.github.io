@@ -19,29 +19,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science  
-  Federal University of Minas Gerais, Brazil (2014–2020)  
-  Specialization: AI and Computer Vision
 
-* M.S. in Computer Science  
-  University of Camagüey, Cuba (2009–2011)  
-  Specialization: Machine Learning and Applied Computing
+* **Ph.D. in Computer Science (2014 - 2020)**  
+  *Specialization: Computer Vision and Artificial Intelligence*  
+  Federal University of Minas Gerais, Brazil   
+  
 
-* B.S. in Computer Science  
-  University of Oriente, Cuba (2002–2007)
+* **M.S. in Computer Science (2009 - 2011)**   
+  *Specialization: Machine Learning and Applied Computing*  
+  University of Camagüey, Cuba   
+  
+
+* **B.S. in Computer Science (2002 - 2007)**  
+  University of Oriente, Cuba 
 
 Work experience
 ======
+
 * **Lead Researcher / Senior AI Scientist**  
-  *Biel Glasses S.L., Barcelona, Spain* (June 2022 – Present)  
+  *Biel Glasses S.L., Barcelona, Spain* (June 2022 - Present)  
   Introduced AI, Computer Vision, and Mixed Reality technologies to develop smart glasses for low vision mobility.
 
 * **Systems Development Manager / Research Team Leader**  
-  *Maxtrack Industrial LTDA, Brazil* (2021–2022)  
-  Enhanced AI/ML systems and led integration of new technologies.
+  *Maxtrack Industrial LTDA, Brazil* (2019 - 2022)  
+  Introduced advanced AI and Computer Vision solutions for intelligent transportation systems at Maxtrack, focusing on ADAS and DMS systems.
 
 * **Senior AI Scientist / Researcher**  
-  *Federal University of Minas Gerais, Brazil* (2014–2020)  
+  *Federal University of Minas Gerais, Brazil* (2014 - 2020)  
   Conducted advanced research in semantic image description based on Prototype Theory.
   
 <!-- Skills
@@ -55,20 +59,33 @@ Work experience
 
 Skills
 ======
-* Programming: Python, C++, C, R, Shell, LATEX  
-* Frameworks: TensorFlow, PyTorch, Keras, OpenCV  
-* Specializations: Deep Learning (CNN, LSTM), Generative AI, Computer Vision, Edge-AI  
-* Tools: Docker, Git, DevOps, MLOps  
+* Programming: Python, C++, C, R, Shell, Latex  
+* Frameworks: TensorFlow, PyTorch, Keras, OpenCV, Sklearn 
+* Specializations: Computer Vision, Artificial Intelligence, Deep Learning (CNN, RNN, LSTM, Transformers), Edge-AI, Generative AI 
+* Tools: Docker, Singularity,  Git, DevOps, MLOps  
 * Soft Skills: Team Leadership, Problem Solving, Multitasking
+* Languages:
+  * Spanish *(Native or bilingual proficiency)*
+  * Portuguese *(Full professional proficiency)*
+  * English *(Professional working proficiency)*
 
 Awards
 ======
-* Marie Skłodowska-Curie Fellowship (2022–2024)  
-  European Commission, Spain  
+* **Marie Skłodowska-Curie Fellowship (2022 - 2024)** <br />
+  *[TecnioSpring Industry Program](https://www.accio.gencat.cat/en/accio/agencia/projectes-europeus-aliances-i-feder/tecniospring-plus/index.html) - Research Executive Agency, European Commission* <br />
+  Government of Catalonia, Spain 
 
-* FUNDEP Scholarship (2017–2019)  
+* **Research Development Foundation (FUNDEP) Scholarship (2017 - 2019)**  
+  *Directorate of Innovation and Teaching Methodologies ([GIZ](https://www.ufmg.br/giz/))* <br />
   Federal University of Minas Gerais, Brazil  
 
+* **Coordination for the Improvement of Higher Education Personnel (CAPES) Scholarship (2014 - 2018)**  <br />
+  *PhD Program - Department of Computer Science*  <br />
+  Federal University of Minas Gerais, Brazil
+
+* **Summa Cum Laude – Computer Science** <br />
+  *Department of Computer Science - GPA (4.86/5)* <br />
+  University of Oriente, Cuba
 
 Publications
 ======
